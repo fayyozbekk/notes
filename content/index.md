@@ -1,3 +1,3 @@
 ---
-title: Welcome to my corner
+title: Come on in
 ---
